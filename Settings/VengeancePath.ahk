@@ -1,0 +1,32 @@
+﻿
+Send, {\}
+Sleep, 200
+Send, A 
+Sleep, 200
+Send, A 
+Sleep, 200
+Send, S
+Sleep, 200
+Send, D
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, S 
+Sleep, 200
+Send, {Enter}
+Sleep, 100
+ExitApp
